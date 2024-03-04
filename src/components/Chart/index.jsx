@@ -31,7 +31,7 @@ export const options = {
     },
     title: {
       display: true,
-      text: 'Chart.js Line Chart',
+      text: 'Chart',
     },
   },
 };
@@ -43,7 +43,7 @@ export const data = {
   datasets: [
     {
       label: 'Dataset 1',
-      data:[10000,8000,15000,4000,5000,7000,12000],
+      data:[3000,5000,8000,12000,15000,13000,10000,8000,12000,14000,15000,13000],
       borderColor: 'rgb(255, 99, 132)',
       backgroundColor: 'rgba(255, 99, 132, 0.5)',
     },
