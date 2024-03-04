@@ -43,7 +43,7 @@ function NavigationBar() {
         </div>
         <div 
             onClick={()=>setIsExpand(!isExpand)}
-            className='flex items-center justify-center w-5 h-5 rounded-full absolute -right-[10.5px] top-12 bg-[#20d79b]'>
+            className='flex items-center justify-center w-5 h-5 rounded-full absolute -right-[10.5px] top-15 bg-[#20d79b]'>
             r
         </div>
         <div className='flex flex-col mt-10 space-y-8'>
